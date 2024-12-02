@@ -58,7 +58,6 @@ footer{
 	font-size: 0.8em;
 }
 
-}
 
 @media screen and (max-width:600px) {
   .balra, .jobbra {
@@ -72,3 +71,11 @@ footer{
 .jobbra {
 	float: right;
 }
+
+
+
+ @media screen and (max-width: 600px) {
+	h1 {color: blue;}
+ }
+
+
